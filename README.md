@@ -1,4 +1,4 @@
-# Hotel_Web
+# Restaurant_Web_Project
 Myownproject
 <br>
 This is my own lerning in php project :) <br>
