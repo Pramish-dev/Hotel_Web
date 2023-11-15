@@ -1,4 +1,4 @@
-<?php require "../config/config.php"; ?>
+<?php require "config.php"; ?>
 <?php
 // creating app class and connecting to DB
  class App {
@@ -135,4 +135,4 @@ public function validateSession($path){
 }
   
  }
- $obj = new App;
+

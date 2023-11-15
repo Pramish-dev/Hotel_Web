@@ -2,7 +2,7 @@
    
    
    define("HOST","localhost"); 
-   define("DBNAME","demo"); 
+   define("DBNAME","restaurant"); 
    define("USER","root");
    define("PASS","");
    
